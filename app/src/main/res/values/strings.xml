@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab_Intents</string>
+    <string name="explicit">Explicit Activity</string>
+</resources>
